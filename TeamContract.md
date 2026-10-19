@@ -20,11 +20,20 @@ This contract sets out shared expectations and commitments for how our team will
 
 * Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
 
+We will be using Discord to for project-related communication. Note that an Instagram groupchat is also created as a backup communication method.
+
 * Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+
+We will aim for at most 2 days to respond to messages on weekdays, and 1 day to respond to messages on weekends. Exceptions can be made with clear communication to the team. (Ex. Attending a 2-day long hackathon during the weekend)
 
 * What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
 
+Any teammate is responsible for meeting a deadline with the exception that they communicate ahead of time with a plausible reason. 
+
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+
+A teammate should attempt try to reason their argument by speaking formally with CS terminologies. While he is speaking, other teammate should listen and not to interrupt with the exception of the teammate being crucially wrong; then, feedback should be provided by the listeners. 
+A feedback should be positive regardless of whether the argument is valid or invalid. That is, a feedback should be constructive and not harmful in any way. 
 
 ---
 
@@ -38,18 +47,25 @@ This contract sets out shared expectations and commitments for how our team will
 ## Decision Making
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+* Teammates should brainstorm and come up with ideas and corresponding reasonings (of why this idea is beneficial).
+* To make the final decision, the team should vote and the majority's choice will be selected. 
 
 ---
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+* A teammate should be understanding, and has the responsibility to listen to the other's side of the issue and attempting to reach a compromise. If a resolution has not been reached, consulting a TA or instructor as a team is a great idea to approach a resolution. 
+
 
 ---
 
 ## Accountability
 
 * Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-
+* Completing their share of the work in a timely manner
+* Communicating ahead of time if anything unexpected occurs
+* Communicate with respect and with an academic tone when topics are project-related
+* Be present for lectures, labs, and meetings
 ---
 
 ---
